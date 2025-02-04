@@ -1,0 +1,17 @@
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\bin\Debug\net9.0\TranformerLikeDataProcessing.exe
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\bin\Debug\net9.0\TranformerLikeDataProcessing.deps.json
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\bin\Debug\net9.0\TranformerLikeDataProcessing.runtimeconfig.json
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\bin\Debug\net9.0\TranformerLikeDataProcessing.dll
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\bin\Debug\net9.0\TranformerLikeDataProcessing.pdb
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\bin\Debug\net9.0\CsvHelper.dll
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\obj\Debug\net9.0\TranformerLikeDataProcessing.csproj.AssemblyReference.cache
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\obj\Debug\net9.0\TranformerLikeDataProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\obj\Debug\net9.0\TranformerLikeDataProcessing.AssemblyInfoInputs.cache
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\obj\Debug\net9.0\TranformerLikeDataProcessing.AssemblyInfo.cs
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\obj\Debug\net9.0\TranformerLikeDataProcessing.csproj.CoreCompileInputs.cache
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\obj\Debug\net9.0\Tranform.C1C55456.Up2Date
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\obj\Debug\net9.0\TranformerLikeDataProcessing.dll
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\obj\Debug\net9.0\refint\TranformerLikeDataProcessing.dll
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\obj\Debug\net9.0\TranformerLikeDataProcessing.pdb
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\obj\Debug\net9.0\TranformerLikeDataProcessing.genruntimeconfig.cache
+C:\Users\konjag\RiderProjects\TransformersPoc\TranformerLikeDataProcessing\obj\Debug\net9.0\ref\TranformerLikeDataProcessing.dll
