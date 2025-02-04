@@ -48,7 +48,7 @@ This repository demonstrates a practical approach to detecting anomalies in tabu
    git clone https://github.com/YourUserName/EmbeddingsSelfAttentionAnomaly.git
    cd EmbeddingsSelfAttentionAnomaly
 
-2. **Update Program.cs or EmployeeController with the path to your CSV (default is "data.csv" - (bin directory))**
+2. **Update Program.cs or EmployeeController with the path to your CSV (default is "data.csv") - Sample data.csv is in project directory**
 
 ## Usage
 Load Employees
